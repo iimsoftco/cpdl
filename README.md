@@ -1,4 +1,4 @@
-# cpdl
+# cpdl v1.1
 Tricky Machines map reader
 
 # Usage
